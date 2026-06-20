@@ -28,7 +28,7 @@ int main() {
     int arr[]={2,4,6,8,10};
     Node *Head=NULL;
  
-     Head=CreateLinkedList(arr, 0,5, NULL);
+    Head=CreateLinkedList(arr, 0,5, NULL);
 
     int x= 3; //insert position
     int value=30;
