@@ -27,7 +27,6 @@ Node* CreateLinkedList(int arr[], int index, int size) {
 int main() {
     int arr[]={2,4,6,8,10};
     Node *Head=NULL;
-    Head= NULL;
     Head=CreateLinkedList(arr, 0,5);
    
     Node *temp=Head;
